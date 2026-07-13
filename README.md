@@ -219,5 +219,8 @@ gunicorn                   → Production deployment
 7. ✅ Geographic Heatmaps (Leaflet + lat/lon)
 8. ✅ Hiring Forecasting (linear trend + confidence band)
 
+   AUTHOR - HARISH REDDY VENKANNAGARI
+   EMAIL - harishreddy3010@gmail.com
+
 ---
 *JobLens — Built with ❤️ for B.Tech Final Year Project*
