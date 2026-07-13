@@ -222,5 +222,4 @@ gunicorn                   → Production deployment
    AUTHOR - HARISH REDDY VENKANNAGARI
    EMAIL - harishreddy3010@gmail.com
 
----
-*JobLens — Built with ❤️ for B.Tech Final Year Project*
+
